@@ -1,0 +1,20 @@
+fieldset{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: linear-gradient(#F2AFEF,#C499F3,#7360DF);
+    
+}
+
+body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* *{
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+} */

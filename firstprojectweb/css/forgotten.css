@@ -1,0 +1,15 @@
+fieldset{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: linear-gradient(#E0F4FF,#87C4FF,#39A7FF);
+    
+}
+
+body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
